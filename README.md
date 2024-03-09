@@ -1,1 +1,1 @@
-# 3d max programı kullanrak yapmış olduğum projeler 
+# 3d max programı kullanarak yapmış olduğum projeler 
